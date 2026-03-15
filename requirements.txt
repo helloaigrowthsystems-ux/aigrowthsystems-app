@@ -1,0 +1,31 @@
+# Core
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+
+# IA
+groq>=0.9.0
+
+# Base de datos
+supabase>=2.0.0
+
+# Documentos
+PyPDF2>=3.0.0
+openpyxl>=3.1.0
+python-docx>=1.1.0
+reportlab>=4.0.0
+
+# Datos
+pandas>=2.0.0
+plotly>=5.20.0
+
+# Pagos (añadir cuando tengas cuenta Stripe)
+stripe>=7.0.0
+
+# Emails (añadir cuando tengas cuenta Resend)
+resend>=0.7.0
+
+# Webhook (servidor separado, solo en Railway/Render)
+flask>=3.0.0
+
+# Seguridad
+cryptography>=41.0.0
